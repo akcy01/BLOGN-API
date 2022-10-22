@@ -1,0 +1,12 @@
+D:\BLOGN\BLOGN.SharedTools\bin\Debug\net6.0\BLOGN.SharedTools.deps.json
+D:\BLOGN\BLOGN.SharedTools\bin\Debug\net6.0\BLOGN.SharedTools.dll
+D:\BLOGN\BLOGN.SharedTools\bin\Debug\net6.0\BLOGN.SharedTools.pdb
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.csproj.AssemblyReference.cache
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.AssemblyInfoInputs.cache
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.AssemblyInfo.cs
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.csproj.CoreCompileInputs.cache
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.dll
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\refint\BLOGN.SharedTools.dll
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\BLOGN.SharedTools.pdb
+D:\BLOGN\BLOGN.SharedTools\obj\Debug\net6.0\ref\BLOGN.SharedTools.dll

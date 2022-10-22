@@ -1,0 +1,12 @@
+D:\BLOGN\BLOGN.Models\bin\Debug\net6.0\BLOGN.Models.deps.json
+D:\BLOGN\BLOGN.Models\bin\Debug\net6.0\BLOGN.Models.dll
+D:\BLOGN\BLOGN.Models\bin\Debug\net6.0\BLOGN.Models.pdb
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.csproj.AssemblyReference.cache
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.AssemblyInfoInputs.cache
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.AssemblyInfo.cs
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.csproj.CoreCompileInputs.cache
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.dll
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\refint\BLOGN.Models.dll
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\BLOGN.Models.pdb
+D:\BLOGN\BLOGN.Models\obj\Debug\net6.0\ref\BLOGN.Models.dll
